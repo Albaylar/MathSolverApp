@@ -1,11 +1,11 @@
 
-MathSolver
+# MathSolver
 
-Proje Hakkında
+## Proje Hakkında
 
 MathSolver, matematik problemlerini çözmek için gelişmiş yapay zeka ve görüntü işleme teknolojilerini birleştiren yenilikçi bir uygulamadır. Fotoğraflarınızı kullanarak karmaşık matematik denklemlerini çözebilir, ve öğrenme sürecinizi kolaylaştırabilirsiniz.
 
-Özellikler
+# Özellikler
 Fotoğraf İle Problem Çözme: Cep telefonunuzla çektiğiniz fotoğrafları kullanarak veya albümden seçerek matematik problemlerini çözün.
 Gelişmiş Kırpma Araçları: TCROP kütüphanesini kullanarak fotoğraflarınızı istediğiniz şekilde kırpın.
 MathPix Entegrasyonu: Fotoğraflardaki problemleri LaTeX formatına dönüştürerek net ve anlaşılır çözümler elde edin.
@@ -15,7 +15,7 @@ Uygulama İçi Satın Alma: Adapty entegrasyonu ile uygulama içi satın alma i�
 Alamofire ile Ağ İletişimi: API isteklerini yönetmek için Alamofire kütüphanesinden yararlanın.
 
 
-Kurulum
+# Kurulum
 
 
 git clone https://github.com/kullaniciadi/MathSolver.git
