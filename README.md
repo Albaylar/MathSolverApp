@@ -25,6 +25,14 @@ Kullanım
 MathSolver uygulamasını başlatın, matematik problemi için bir fotoğraf çekin veya albümden yükleyin, fotoğrafı kırpın ve sonucu görüntüleyin.
 
 
+#Video
+
+
+https://github.com/Albaylar/MathSolverApp/assets/67964948/fc52f234-ce84-48b3-8548-a58ea89d3304
+
+
+
+
 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
