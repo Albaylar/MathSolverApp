@@ -1,41 +1,32 @@
+# **MathSolver**
 
-# MathSolver
+## **About the Project**
 
-## About the Project
-MathSolver is an innovative application that combines advanced artificial intelligence and image processing technologies to solve mathematical problems. You can solve complex mathematical equations using your photographs, facilitating your learning process.
+**MathSolver** is an innovative application that combines advanced artificial intelligence and image processing technologies to solve mathematical problems. Use your photographs to solve complex mathematical equations, thereby facilitating your learning process.
 
-Technologies & Tools
+## **Features**
+
+- **Solve Problems with Photos:** Use photos taken with your mobile phone or selected from your album to solve mathematical problems.
+- **Advanced Cropping Tools:** Crop your photos as desired using the **TCROP** library.
+- **MathPix Integration:** Convert problems in photos to **LaTeX** format for clear and understandable solutions.
+- **Visual Presentation with MathJax:** Display solutions in a visual and understandable format on **WebView** using **MathJax**.
+- **History Recording:** Save all your queries and solutions using **CoreData**.
+- **In-App Purchases:** Perform in-app purchase transactions with **Adapty** integration.
+- **Network Communication with Alamofire:** Manage API requests using **Alamofire**, a Swift-based HTTP networking library.
+
+## **Technologies & Tools**
+
 MathSolver leverages a variety of advanced technologies and tools to deliver a comprehensive and user-friendly experience:
-Solve Problems with Photos
 
-Use Case: Solve mathematical problems by using photos taken with your mobile phone or selected from your album.
-Tools: Custom image processing algorithms.
-Advanced Cropping Tools
-
-TCROP Library: Crop your photos as desired for focused problem-solving.
-MathPix Integration
-
-Functionality: Convert photographed problems into LaTeX format for clarity and comprehension.
-Use Case: Detect mathematical expressions in photos and convert them to a readable format.
-Visual Presentation with MathJax
-
-Use Case: Display solutions in a visually appealing and understandable format on WebView.
-Technology: Use MathJax to render LaTeX formatted mathematical expressions.
-History Recording
-
-CoreData: Store all your queries and solutions locally for future reference.
-In-App Purchases
-
-Adapty Integration: Manage in-app transactions for a seamless user experience.
-Network Communication
-
-Alamofire: A Swift-based HTTP networking library for efficient API request management.
-Programmatic UI
-
-Approach: Develop the app using programmatic UI techniques for a dynamic and responsive interface.
-API Testing and Management
-
-Postman: Utilized for thorough testing and management of API endpoints to ensure robust integration.
+- **MathPix:** Utilizes the MathPix API to detect mathematical expressions in photographs and convert them to LaTeX format.
+- **ChatGPT:** Employs the ChatGPT API for understanding user queries and performing natural language processing.
+- **TCROP:** Incorporates the TCROP library for custom image cropping.
+- **MathJax:** Integrates the MathJax library to visually render LaTeX formatted mathematical expressions.
+- **CoreData:** Uses CoreData, iOS's native database management system, for local storage of historical queries and solutions.
+- **Adapty:** Integrates the Adapty platform for managing in-app purchases and subscriptions.
+- **Alamofire:** Uses Alamofire for network communication and API requests.
+- **Programmatic UI:** The app is developed using programmatic UI techniques for a dynamic and responsive user interface.
+- **Postman:** Utilized for API testing and endpoint management.
 
 # Installation
 
