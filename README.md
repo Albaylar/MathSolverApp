@@ -4,37 +4,38 @@
 ## About the Project
 MathSolver is an innovative application that combines advanced artificial intelligence and image processing technologies to solve mathematical problems. You can solve complex mathematical equations using your photographs, facilitating your learning process.
 
-# Features
-Solve Problems with Photos: Use photos taken with your mobile phone or selected from your album to solve mathematical problems.
-Advanced Cropping Tools: Crop your photos as desired using the TCROP library.
+Technologies & Tools
+MathSolver leverages a variety of advanced technologies and tools to deliver a comprehensive and user-friendly experience:
+Solve Problems with Photos
 
-MathPix Integration: Convert problems in photos to LaTeX format for clear and understandable solutions.
+Use Case: Solve mathematical problems by using photos taken with your mobile phone or selected from your album.
+Tools: Custom image processing algorithms.
+Advanced Cropping Tools
 
-Visual Presentation with MathJax: Display solutions in a visual and understandable format on WebView using MathJax.
+TCROP Library: Crop your photos as desired for focused problem-solving.
+MathPix Integration
 
-History Recording: Save all your queries and solutions using CoreData.
+Functionality: Convert photographed problems into LaTeX format for clarity and comprehension.
+Use Case: Detect mathematical expressions in photos and convert them to a readable format.
+Visual Presentation with MathJax
 
-In-App Purchases: Perform in-app purchase transactions with Adapty integration.
+Use Case: Display solutions in a visually appealing and understandable format on WebView.
+Technology: Use MathJax to render LaTeX formatted mathematical expressions.
+History Recording
 
-Network Communication with Alamofire: Manage API requests using Alamofire, a Swift-based HTTP networking library.
+CoreData: Store all your queries and solutions locally for future reference.
+In-App Purchases
 
-MathPix: Utilizes the MathPix API for detecting mathematical expressions in photographs and converting them to LaTeX format.
+Adapty Integration: Manage in-app transactions for a seamless user experience.
+Network Communication
 
-ChatGPT: Employs the ChatGPT API for understanding user queries and performing natural language processing.
+Alamofire: A Swift-based HTTP networking library for efficient API request management.
+Programmatic UI
 
-TCROP: Incorporates the TCROP library for custom image cropping according to user requirements.
+Approach: Develop the app using programmatic UI techniques for a dynamic and responsive interface.
+API Testing and Management
 
-MathJax: Integrates the MathJax library to render LaTeX formatted mathematical expressions visually appealing in a web environment.
-
-CoreData: Uses CoreData, iOS's native database management system, for locally storing user's historical queries and solutions.
-
-Adapty: Adapty platform is integrated for managing in-app purchases and simplifying subscriptions.
-
-Alamofire: Alamofire, a Swift-based HTTP networking library, is used for network communication and API requests.
-
-Programmatic UI: The app is developed using programmatic UI techniques, offering a dynamic and responsive user interface.
-
-Postman: Postman has been utilized for API testing and endpoint management, ensuring robust and reliable API integration.
+Postman: Utilized for thorough testing and management of API endpoints to ensure robust integration.
 
 # Installation
 
