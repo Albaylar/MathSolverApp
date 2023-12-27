@@ -1,6 +1,8 @@
 
 MathSolver
+
 Proje Hakkında
+
 MathSolver, matematik problemlerini çözmek için gelişmiş yapay zeka ve görüntü işleme teknolojilerini birleştiren yenilikçi bir uygulamadır. Fotoğraflarınızı kullanarak karmaşık matematik denklemlerini çözebilir, ve öğrenme sürecinizi kolaylaştırabilirsiniz.
 
 Özellikler
