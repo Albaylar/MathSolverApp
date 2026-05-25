@@ -118,11 +118,3 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 https://github.com/Albaylar/MathSolverApp/assets/67964948/fc52f234-ce84-48b3-8548-a58ea89d3304
 
-
-# Licance
-  This project is licensed under the MIT License.
-
-# Contact
-  Email - furkandenizalbaylar@gmail.com
-
-  Project Link: https://github.com/kullaniciadi/MathSolver
